@@ -11,7 +11,17 @@ React/Node application to search and save your favourites Marvel comics and char
 - JWT
 - MySQL
 
-# How to run
+# Adonis API application
+
+This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
+
+1. Bodyparser
+2. Authentication
+3. CORS
+4. Lucid ORM
+5. Migrations and seeds
+
+# Setup
 
 - Download the project and access it in your terminal
 - run <code> npm install </code> 
@@ -27,3 +37,5 @@ React/Node application to search and save your favourites Marvel comics and char
 - run the migrations using the following command: <code> adonis migration:run </code>
 - run <code>npm start</code> 
 - open the browser at <code> http://localhost:3333 </code>
+
+
